@@ -1,8 +1,8 @@
-Color Flipper
+# Color Flipper
 
 A simple web application that allows users to change the background color with a click of a button. The project includes two modes: Simple and Hex.
 
-Table of Contents
+## Table of Contents
 
 1.Description
 2.Demo
@@ -10,35 +10,35 @@ Table of Contents
 4.Installation
 5.Usage
 
-Description
+## Description
 
-This project is a simple color flipper web application with two modes:
+### This project is a simple color flipper web application with two modes:
 
-    . Simple Mode: Generates random background colors from a predefined set.
-    . Hex Mode: Generates random background colors hex color value.
+    - **Simple Mode:** Generates random background colors from a predefined set.
+    - **Hex Mode:** Generates random background colors hex color value.
 
-Demo
+## Demo
 
 You can view the project live at Color Flipper Demo
 
-Features
+## Features
 
-    . Two modes: Simple and Hex.
-    . Randomly generates background colors in Simple mode.
-    . Generates random background colors hex color value.
+    - Two modes: Simple and Hex.
+    - Randomly generates background colors in Simple mode.
+    - Generates random background colors hex color value.
 
-Installation
+## Installation
 
 1.Clone the repository:
-git clone https://github.com/mohanraj-exe/color-flipper.git
+git **clone** [GitHub](https://github.com/mohanraj-exe/color-flipper.git)
 
 2.Navigate to the project directory:
-cd color-flipper
+**cd** color-flipper
 
-Usage
+## Usage
 
 1.Open the project directory in a code editor of your choice.
-2.Open the index.html file in your web browser.
+2.Open the **index.html** file in your web browser.
 3.Choose the desired mode (Simple or Hex).
 4.Click the "Click me" button to change the background color.
 
