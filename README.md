@@ -19,7 +19,7 @@ A simple web application that allows users to change the background color with a
 
 ## Demo
 
-You can view the project live at Color Flipper Demo
+You can view the project live at Color [Flipper Demo](https://color-flipper-html-dom-vanillajs.netlify.app/)
 
 ## Features
 
